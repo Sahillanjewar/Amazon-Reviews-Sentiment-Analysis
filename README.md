@@ -85,5 +85,7 @@ Real-time sentiment dashboard
 Deployment on AWS / Azure
 
 output:- 
+<img width="1981" height="785" alt="Image" src="https://github.com/user-attachments/assets/5021271e-e54f-4e6c-bd0b-a1d506bcb100" />
+<img width="1125" height="831" alt="Image" src="https://github.com/user-attachments/assets/747f4884-c7b0-4e3f-8727-de55176c8e46" />
 
 
